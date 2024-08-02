@@ -1,0 +1,6 @@
+{
+	"editor.formatOnType": false,
+	"editor.formatOnSave": true,
+	"editor.semanticTokenColorCustomizations": {},
+	"editor.autoIndent": "full"
+}
